@@ -6,6 +6,139 @@
 
 <br>
 
+## 23주차 문제 링크 (23.04.30~23.05.06)
+
+[Q14248_점프 점프](https://www.acmicpc.net/problem/14248)-시리
+
+[Q14496_그대, 그머가 되어](https://www.acmicpc.net/problem/14496)-고구마
+
+[Q11123_양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123)-동원
+
+[Q1058_친구](https://www.acmicpc.net/problem/1058)-앙버터
+
+[Q21938_영상처리](https://www.acmicpc.net/problem/21938)-빽
+
+## 22주차 문제 링크 (23.04.16~23.04.22)
+
+[Q5567_결혼식](https://www.acmicpc.net/problem/5567)-동원
+
+[Q17086_아기 상어2](https://www.acmicpc.net/problem/17086)-빽
+
+[Q2583_영역 구하기](https://www.acmicpc.net/problem/2583)-앙버터
+
+[Q5014_스타트링크](https://www.acmicpc.net/problem/5014)-시리
+
+[Q16948_데스 나이트](https://www.acmicpc.net/problem/16948)-고구마
+
+## 21주차 문제 링크 (23.04.09~23.04.15)
+
+[Q13023_ABCDE](https://www.acmicpc.net/problem/13023)-동원
+
+[Q5547_일루미네이션](https://www.acmicpc.net/problem/5547)-앙버터
+
+[Q2668_숫자고르기](https://www.acmicpc.net/problem/2668)-고구마
+
+[Q17836_공주님을 구해라!](https://www.acmicpc.net/problem/17836)-빽
+
+[Q13549_숨바꼭질3](https://www.acmicpc.net/problem/13549)-시리
+
+## 20주차 문제 링크 (23.04.02~23.04.08)
+
+[Q2667_단지번호붙이기](https://www.acmicpc.net/problem/2606)-시리
+
+[Q16918_봄버맨](https://www.acmicpc.net/problem/16918)-동원
+
+[Q14940_쉬운 최단거리](https://www.acmicpc.net/problem/14940)-빽
+
+[Q7569_토마토](https://www.acmicpc.net/problem/7569)-고구마
+
+[Q16234_인구 이동](https://www.acmicpc.net/problem/16234)-앙버터
+
+## 19주차 문제 링크 (23.03.26~23.04.01)
+### 트리 개념 설명 - 고구마 (근데 잘 모르겠어요 여러분 하하하하)
+
+[Q2606_바이러스](https://www.acmicpc.net/problem/2606)-빽
+
+[Q1260_DFS와 BFS](https://www.acmicpc.net/problem/1260)-동원
+
+[Q11725_트리의 부모 찾기](https://www.acmicpc.net/problem/11725)-앙버터
+
+[Q1325_효율적인 해킹](https://www.acmicpc.net/problem/1325)-고구마
+
+[Q2178_미로 탐색](https://www.acmicpc.net/problem/2178)-시리
+
+## 18주차 문제 링크 (23.03.19~23.03.25)
+
+[Q16937_두 스티커](https://www.acmicpc.net/problem/16937)-앙버터
+
+[Q16508_전공책](https://www.acmicpc.net/problem/16508)-고구마
+
+[Q9079_동전 게임](https://www.acmicpc.net/problem/9079)-동원
+
+[Q14620_꽃길](https://www.acmicpc.net/problem/14620)-빽
+
+[Q2961_도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)-시리
+
+## 17주차 문제 링크 (23.03.11~23.03.18)
+
+#### 문제푸시느라 고생많으셔요 화이팅 하셔요~🤯- 동원
+
+[Q2503_숫자 야구](https://www.acmicpc.net/problem/2503)-랜덤
+
+[Q1969_DNA](https://www.acmicpc.net/problem/1969)-고구마
+
+[Q5568_카드 놓기](https://www.acmicpc.net/problem/5568)-빽
+
+[Q16439_치킨치킨치킨](https://www.acmicpc.net/problem/16439)-동원
+
+[Q14501_퇴사](https://www.acmicpc.net/problem/14501)-시리
+
+[Q17626_Four Squares](https://www.acmicpc.net/problem/17626)-앙버터
+
+## 16주차 문제 링크 (23.02.26~23.03.04)
+
+[Q22871_징검다리 건너기](https://www.acmicpc.net/problem/22871)후드
+
+[Q20444_색종이와 가위](https://www.acmicpc.net/problem/20444)-고구마
+
+[Q7453_합이 0인 네 정수](https://www.acmicpc.net/problem/7453)-빽
+
+[Q15721_번데기](https://www.acmicpc.net/problem/15721)-동원
+
+[Q2422_한윤정이 이탈리아에 가서 아이스크림~!](https://www.acmicpc.net/problem/2422)-시리
+
+[Q18511_큰 수 구성하기](https://www.acmicpc.net/problem/18511)-앙버터
+
+## 15주차 문제 링크 (23.02.26~23.03.04)
+
+[Q1789_수들의 합](https://www.acmicpc.net/problem/1789)-빽
+
+[Q10815_숫자카드](https://www.acmicpc.net/problem/10815)-고구마
+
+[Q2417_정수 제곱근](https://www.acmicpc.net/problem/2417)-앙버터
+
+[Q2512_예산](https://www.acmicpc.net/problem/2512)-시리
+
+[Q19637_IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)-동원
+
+[Q11663_선분 위의 점](https://www.acmicpc.net/problem/11663)-미정
+
+## 14주차 문제 링크 (23.02.19~23.02.25)
+### 알고리즘 설명 준비
+#### 앙버터 -> 투포인터!  빽 -> 이분탐색!
+
+[Q2003_수들의 합 2](https://www.acmicpc.net/problem/2003)-빽
+
+[Q3273_두 수의 합](https://www.acmicpc.net/problem/3273)-고구마
+
+[Q10025_게으른 백곰](https://www.acmicpc.net/problem/10025)-홍이 
+
+[Q2559_수열](https://www.acmicpc.net/problem/2559)-시리
+
+[Q2428_표절](https://www.acmicpc.net/problem/2428)-동원
+
+[Q15565_귀여운 라이언](https://www.acmicpc.net/problem/15565)-앙버터
+
 ## 13주차 문제 링크 (23.02.13~23.02.18)
 ### 알고리즘 설명 준비
 #### 앙버터 -> 투포인터!
